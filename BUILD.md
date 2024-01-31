@@ -1,11 +1,8 @@
 
-![Hyperledger Sawtooth](images/sawtooth_logo_light_blue-small.png)
+![Sawtooth](images/sawtooth_logo_light_blue-small.png)
 
-Hyperledger Sawtooth SDK Python Developer's Setup Guide
+Sawtooth SDK Python Developer's Setup Guide
 =============
-
-If you are planning to contribute code to the Sawtooth project, please review
-the contributing guide: [CONTRIBUTING.md]
 
 Supported operating systems: Ubuntu 18.04 and macOS
 
@@ -151,7 +148,7 @@ Open a terminal and run the following commands:
    $ cd $HOME
    $ mkdir sawtooth
    $ cd sawtooth
-   $ git clone https://github.com/hyperledger/sawtooth-sdk-python.git
+   $ git clone git@github.com:splintercommunity/sawtooth-sdk-python.git
 ```
 
 Step Four: Build Docker Images
