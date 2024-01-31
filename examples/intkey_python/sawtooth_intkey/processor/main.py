@@ -51,7 +51,7 @@ def parse_args(args):
     parser.add_argument(
         '-V', '--version',
         action='version',
-        version=(DISTRIBUTION_NAME + ' (Hyperledger Sawtooth) version {}')
+        version=(DISTRIBUTION_NAME + ' (Sawtooth) version {}')
         .format(version),
         help='print version information')
 
