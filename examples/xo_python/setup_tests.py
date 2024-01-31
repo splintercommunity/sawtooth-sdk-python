@@ -41,8 +41,8 @@ setup(
     name='sawtooth-xo-tests',
     version=VERSION,
     description='Sawtooth XO Python Test',
-    author='Hyperledger Sawtooth',
-    url='https://github.com/hyperledger/sawtooth-sdk-python',
+    author='Sawtooth',
+    url='https://github.com/splintercommunity/sawtooth-sdk-python',
     packages=find_packages(),
     install_requires=[
         'aiohttp',
